@@ -1,0 +1,1 @@
+function main_fct:witcharc/cabane/quitting_upstairs_v2/restore

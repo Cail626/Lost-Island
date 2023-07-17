@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.sandra.bone.left_arm] run data modify entity @s {} merge value {transformation:[-1f,1.2246467991473532e-16f,2.719262146893782e-32f,0.3125f,0f,2.220446049250313e-16f,-1f,1.375f,-1.2246467991473532e-16f,-1f,-2.220446049250313e-16f,2.7755575615628914e-17f,0f,0f,0f,1f],start_interpolation:0}

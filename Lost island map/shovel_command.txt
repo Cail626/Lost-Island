@@ -1,0 +1,8 @@
+/gmask dirt,stone,sand,clay,gravel,iron_ore,copper_ore,diamond_ore,gold_ore,andesite,lapis_ore,granite,coal_ore,diorite,redstone_ore
+
+
+/br s 30%sandstone_stairs[half=top],30%red_sandstone_stairs[half=top],7%sandstone,7%red_sandstone,6%stripped_dark_oak_wood 0.5
+
+//gmask air,water,seagrass,kelp_plant,tall_seagrass
+/br s 33%stone,33%mossy_cobblestone,33%cobblestone 2
+

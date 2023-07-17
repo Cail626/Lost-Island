@@ -1,0 +1,1 @@
+scoreboard players set witch_arc leaving_early_state 2

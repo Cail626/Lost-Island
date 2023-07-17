@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.sandra.root] run function animated_java:sandra/zzzzzzzz/tick_as_root

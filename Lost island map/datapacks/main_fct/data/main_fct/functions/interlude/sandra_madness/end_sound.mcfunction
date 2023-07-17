@@ -1,0 +1,2 @@
+scoreboard players set interlude sandra_madness_tick 0
+scoreboard players set interlude sandra_madness_playsound 0

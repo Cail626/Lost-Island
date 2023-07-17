@@ -1,0 +1,1 @@
+function main_fct:objects/quest_item/helping_doll/helping_dool_undo

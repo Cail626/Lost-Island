@@ -1,0 +1,1 @@
+tellraw @a [{"text": "(You) ... I've never seen fireworks before, so I didn't have any expectations to begin with.", "color": "gold"}]

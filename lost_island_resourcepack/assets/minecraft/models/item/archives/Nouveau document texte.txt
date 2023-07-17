@@ -1,0 +1,2 @@
+/summon armor_stand ~ ~1 ~ {ArmorItems:[{},{},{},{id:"minecraft:stick",Count:1b,tag:{CustomModelData:111111}}]}
+/summon armor_stand ~ ~1 ~ {ArmorItems:[{},{},{},{id:"minecraft:zombie_head",Count:1b,tag:{CustomModelData:121523}}]}

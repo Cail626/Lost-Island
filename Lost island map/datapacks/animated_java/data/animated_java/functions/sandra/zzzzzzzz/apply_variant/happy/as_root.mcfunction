@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:sandra/zzzzzzzz/apply_variant/happy/as_bone

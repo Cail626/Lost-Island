@@ -1,0 +1,1 @@
+tellraw @a [{"text": "Look, we've had this conversation before, but I can't help but feel unsettled by your eerie calmness. It's freaking me out. I feel like I'm being taught the secrets of life by a Buddhist monk. Just stop, please!", "color": "gold"}]

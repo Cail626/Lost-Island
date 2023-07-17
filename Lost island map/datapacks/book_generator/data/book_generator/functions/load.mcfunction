@@ -1,0 +1,1 @@
+tellraw @a {"text": "Book generator is loaded", "color": "#0000FF"}

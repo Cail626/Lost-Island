@@ -1,0 +1,4 @@
+function animated_java:sandra/zzzzzzzz/animations/angry_ice_idle/pause_as_root
+function animated_java:sandra/zzzzzzzz/animations/magic_playing/pause_as_root
+function animated_java:sandra/zzzzzzzz/animations/crying/pause_as_root
+function animated_java:sandra/zzzzzzzz/animations/crying_looking/pause_as_root

@@ -1,0 +1,1 @@
+function animated_java:sandra/zzzzzzzz/animations/crying_looking/tick_animation

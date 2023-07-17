@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:sandra/zzzzzzzz/apply_variant/angry_magic/as_bone

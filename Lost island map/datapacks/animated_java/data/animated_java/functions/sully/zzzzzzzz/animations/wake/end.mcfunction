@@ -1,0 +1,3 @@
+execute if score @s aj.sully.animation.wake.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:sully/zzzzzzzz/animations/wake/end_loop
+execute if score @s aj.sully.animation.wake.loop_mode = $aj.loop_mode.once aj.i run function animated_java:sully/animations/wake/stop
+execute if score @s aj.sully.animation.wake.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:sully/animations/wake/pause

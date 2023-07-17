@@ -1,0 +1,3 @@
+execute if score @s aj.sully.animation.call_of_the_zombies.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:sully/zzzzzzzz/animations/call_of_the_zombies/end_loop
+execute if score @s aj.sully.animation.call_of_the_zombies.loop_mode = $aj.loop_mode.once aj.i run function animated_java:sully/animations/call_of_the_zombies/stop
+execute if score @s aj.sully.animation.call_of_the_zombies.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:sully/animations/call_of_the_zombies/pause

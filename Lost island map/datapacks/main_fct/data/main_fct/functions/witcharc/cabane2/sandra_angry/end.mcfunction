@@ -1,0 +1,1 @@
+function animated_java:sandra/remove/all

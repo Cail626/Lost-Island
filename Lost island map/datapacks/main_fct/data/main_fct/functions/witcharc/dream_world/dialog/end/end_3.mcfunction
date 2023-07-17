@@ -1,0 +1,1 @@
+tellraw @a {"text": "(Sandra) Speak while you still can, hihihi!","color": "dark_purple"}

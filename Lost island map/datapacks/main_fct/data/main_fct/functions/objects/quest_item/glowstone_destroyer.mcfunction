@@ -1,0 +1,1 @@
+give @a stone_pickaxe{CanDestroy:["minecraft:glowstone"],display:{Name:'{"text":"Glowstone destroyer"}',Lore:['{"text":"\\"What is this sparkling thing?\\""}','{"text":"\\"I want to break it\\""}','{"text":"Sully"}']}} 1

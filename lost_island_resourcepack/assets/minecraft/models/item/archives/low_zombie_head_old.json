@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/zombie_head",
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [-5, 9.5, -16.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [-15.25, 18.5, 0]
+		},
+		"ground": {
+			"translation": [0, -13.75, 0]
+		},
+		"head": {
+			"translation": [-1.25, -30.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 12, 0]
+		}
+	}
+}

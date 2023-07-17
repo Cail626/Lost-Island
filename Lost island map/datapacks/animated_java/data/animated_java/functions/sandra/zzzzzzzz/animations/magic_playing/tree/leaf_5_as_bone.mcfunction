@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.sandra.bone.icecube] run data modify entity @s {} merge value {transformation:[-0.5f,3.727588677399492e-17f,4.85788814390261e-17f,0.3749999999999999f,0f,0.3966766701456176f,-0.30438071450436033f,1.375f,-6.123233995736766e-17f,-0.30438071450436033f,-0.3966766701456176f,0.8125f,0f,0f,0f,1f],start_interpolation:0}

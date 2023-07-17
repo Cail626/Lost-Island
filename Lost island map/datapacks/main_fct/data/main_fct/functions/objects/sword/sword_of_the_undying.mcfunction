@@ -1,0 +1,1 @@
+give @a stone_sword{display:{Name:'{"text":"Sword of the dying","color":"dark_blue","bold":true}',Lore:['{"text":"Sword given by Sandra to those  who dare to arouse the witch\'s wrath"}']},Unbreakable:1b,Enchantments:[{id:"minecraft:sharpness",lvl:1s}]} 1

@@ -1,0 +1,2 @@
+execute if entity @a[x=945,y=62,z=64,dx=10,dy=2,dz=7] if score witch_arc trapped_inside_tree matches 0 run function main_fct:witcharc/dream_world/mushroom_tree/inside
+execute if entity @a[x=949,y=69,z=73,distance=..1] if score witch_arc trapped_inside_tree matches 1 run function main_fct:witcharc/dream_world/mushroom_tree/outside

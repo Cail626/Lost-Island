@@ -1,0 +1,1 @@
+function animated_java:sandra/zzzzzzzz/animations/magic_playing/tick_animation

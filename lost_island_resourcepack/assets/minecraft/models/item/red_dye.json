@@ -1,0 +1,54 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/red_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/christophe/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/christophe/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/christophe/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/christophe/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/christophe/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/christophe/right_leg"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"217146ff-e4c2-7d91-291b-876168bf8ca6": {
+				"name": "christophe",
+				"usedIDs": [
+					[1, 6]
+				]
+			}
+		}
+	}
+}

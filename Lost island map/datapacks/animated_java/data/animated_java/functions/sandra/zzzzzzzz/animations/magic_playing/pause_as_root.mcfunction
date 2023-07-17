@@ -1,0 +1,1 @@
+tag @s remove aj.sandra.animation.magic_playing

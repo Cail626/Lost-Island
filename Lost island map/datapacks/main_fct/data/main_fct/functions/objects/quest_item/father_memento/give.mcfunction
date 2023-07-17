@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"Father memento"}',Lore:['{"text":"Precious memories of your time","color":"gold"}','{"text":" with your fathers.","color":"gold"}','{"text":"Use it to remember the past.","color":"gold"}']},HideFlags:68,Unbreakable:1b,CustomModelData:248658,father_memento:1b} 1

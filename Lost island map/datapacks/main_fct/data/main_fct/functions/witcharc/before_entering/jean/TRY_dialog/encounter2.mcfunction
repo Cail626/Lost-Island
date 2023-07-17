@@ -1,0 +1,2 @@
+tellraw @a {"text":"(Mysterious Head) You want to find the treasure at the bottom of the lake, and I know how to help you get it. Even if you manage to reach the bottom alive, you'll need a special item to proceed further, and I know how to obtain it. So, take me with you, and I will serve as your guide.","color":"green"}
+tellraw @a {"text":"(You) Huh. What the heck... Am I dreaming?","color": "gold"}

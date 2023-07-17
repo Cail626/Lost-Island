@@ -1,0 +1,1508 @@
+{
+  "meta": {
+    "format_version": "0.0",
+    "creation_time": 1680379087,
+    "model_format": "animated_java/ajmodel",
+    "box_uv": false,
+    "settings": {
+      "animatedJava": {
+        "projectName": "christophe",
+        "exporter": "vanillaStatueExporter",
+        "verbose": true,
+        "rigItem": "minecraft:red_dye",
+        "rigModelsExportFolder": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\models\\item\\christophe",
+        "predicateFilePath": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\models\\item\\red_dye.json",
+        "transparentTexturePath": ""
+      },
+      "vanillaStatueExporter": {
+        "rootEntityType": "minecraft:marker",
+        "rootEntityNbt": "{}",
+        "markerArmorStands": true,
+        "modelTag": "aj.%projectName",
+        "rootTag": "aj.%projectName.root",
+        "allBonesTag": "aj.%projectName.bone",
+        "boneModelDisplayTag": "aj.%projectName.bone_display",
+        "individualBoneTag": "aj.%projectName.bone.%boneName",
+        "internalScoreboardObjective": "aj.i",
+        "idScoreboardObjective": "aj.id",
+        "exportMode": "vanilla",
+        "mcbFilePath": "",
+        "mcbConfigPath": "",
+        "dataPackPath": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\saves\\Water world\\datapacks\\christophe"
+      },
+      "vanillaAnimationExporter": {
+        "rootEntityType": "minecraft:marker",
+        "rootEntityNbt": "{}",
+        "markerArmorStands": true,
+        "autoDistance": true,
+        "autoDistanceMovementThreshold": 1,
+        "manualDistance": 10,
+        "deduplicatePositionFrames": false,
+        "deduplicateRotationFrames": true,
+        "modelTag": "aj.%projectName",
+        "rootTag": "aj.%projectName.root",
+        "allBonesTag": "aj.%projectName.bone",
+        "boneModelDisplayTag": "aj.%projectName.bone_display",
+        "individualBoneTag": "aj.%projectName.bone.%boneName",
+        "internalScoreboardObjective": "aj.i",
+        "idScoreboardObjective": "aj.id",
+        "frameScoreboardObjective": "aj.frame",
+        "animatingFlagScoreboardObjective": "aj.%projectName.animating",
+        "animationLoopModeScoreboardObjective": "aj.%projectName.%animationName.loopMode",
+        "exportMode": "vanilla",
+        "mcbFilePath": "",
+        "mcbConfigPath": "",
+        "dataPackPath": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\saves\\Water world\\datapacks\\christophe"
+      },
+      "rawAnimationExporter": {
+        "outputJsonPath": ""
+      }
+    },
+    "variants": {
+      "default": {}
+    },
+    "uuid": "217146ff-e4c2-7d91-291b-876168bf8ca6"
+  },
+  "name": "christophe",
+  "model_identifier": "",
+  "visible_box": [
+    1,
+    1,
+    0
+  ],
+  "variable_placeholders": "",
+  "variable_placeholder_buttons": [],
+  "timeline_setups": [],
+  "unhandled_root_fields": {},
+  "resolution": {
+    "width": 32,
+    "height": 32
+  },
+  "elements": [
+    {
+      "name": "head",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        -3,
+        24,
+        -4
+      ],
+      "to": [
+        3,
+        31,
+        3
+      ],
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            8,
+            8
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            8,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            16,
+            8
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            8,
+            24,
+            0,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            24,
+            0,
+            16,
+            8
+          ],
+          "texture": 0
+        }
+      },
+      "type": "cube",
+      "uuid": "e54735db-b3cc-c63f-b4f3-1a5cc3efb724"
+    },
+    {
+      "name": "body",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        -4,
+        12,
+        -2
+      ],
+      "to": [
+        4,
+        24,
+        2
+      ],
+      "autouv": 0,
+      "color": 9,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "uv_offset": [
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            8,
+            12
+          ],
+          "texture": 1
+        },
+        "east": {
+          "uv": [
+            0,
+            12,
+            4,
+            24
+          ],
+          "texture": 1
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            16,
+            12
+          ],
+          "texture": 1
+        },
+        "west": {
+          "uv": [
+            4,
+            12,
+            8,
+            24
+          ],
+          "texture": 1
+        },
+        "up": {
+          "uv": [
+            16,
+            16,
+            8,
+            12
+          ],
+          "texture": 1
+        },
+        "down": {
+          "uv": [
+            24,
+            0,
+            16,
+            4
+          ],
+          "texture": 1
+        }
+      },
+      "type": "cube",
+      "uuid": "c1c13e09-d1ca-a44a-33f6-1d31d0b457d8"
+    },
+    {
+      "name": "left_arm",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        -6,
+        12,
+        -1
+      ],
+      "to": [
+        -4,
+        24,
+        1
+      ],
+      "autouv": 0,
+      "color": 4,
+      "mirror_uv": true,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "uv_offset": [
+        40,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            24
+          ],
+          "texture": 2
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            24
+          ],
+          "texture": 2
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            24
+          ],
+          "texture": 2
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            24
+          ],
+          "texture": 2
+        },
+        "up": {
+          "uv": [
+            20,
+            4,
+            16,
+            0
+          ],
+          "texture": 2
+        },
+        "down": {
+          "uv": [
+            20,
+            4,
+            16,
+            8
+          ],
+          "texture": 2
+        }
+      },
+      "type": "cube",
+      "uuid": "cb155dcd-a754-83d3-31be-a17abab4ec0c"
+    },
+    {
+      "name": "right_arm",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        4,
+        12,
+        -1
+      ],
+      "to": [
+        6,
+        24,
+        1
+      ],
+      "autouv": 0,
+      "color": 6,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "uv_offset": [
+        40,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            24
+          ],
+          "texture": 3
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            24
+          ],
+          "texture": 3
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            24
+          ],
+          "texture": 3
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            24
+          ],
+          "texture": 3
+        },
+        "up": {
+          "uv": [
+            20,
+            4,
+            16,
+            0
+          ],
+          "texture": 3
+        },
+        "down": {
+          "uv": [
+            20,
+            4,
+            16,
+            8
+          ],
+          "texture": 3
+        }
+      },
+      "type": "cube",
+      "uuid": "f7aafb11-aee9-dabe-b39c-ca0311d02e2a"
+    },
+    {
+      "name": "left_leg",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        -3,
+        0,
+        -1
+      ],
+      "to": [
+        -1,
+        12,
+        1
+      ],
+      "autouv": 0,
+      "color": 8,
+      "mirror_uv": true,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "uv_offset": [
+        0,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            24
+          ],
+          "texture": 4
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            24
+          ],
+          "texture": 4
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            24
+          ],
+          "texture": 4
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            24
+          ],
+          "texture": 4
+        },
+        "up": {
+          "uv": [
+            20,
+            4,
+            16,
+            0
+          ],
+          "texture": 4
+        },
+        "down": {
+          "uv": [
+            20,
+            4,
+            16,
+            8
+          ],
+          "texture": 4
+        }
+      },
+      "type": "cube",
+      "uuid": "cb71105e-013b-8b7e-3bdc-0ad4eace94d2"
+    },
+    {
+      "name": "right_leg",
+      "box_uv": false,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        1,
+        0,
+        -1
+      ],
+      "to": [
+        3,
+        12,
+        1
+      ],
+      "autouv": 0,
+      "color": 2,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "uv_offset": [
+        0,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            24
+          ],
+          "texture": 5
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            24
+          ],
+          "texture": 5
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            24
+          ],
+          "texture": 5
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            24
+          ],
+          "texture": 5
+        },
+        "up": {
+          "uv": [
+            20,
+            4,
+            16,
+            0
+          ],
+          "texture": 5
+        },
+        "down": {
+          "uv": [
+            20,
+            4,
+            16,
+            8
+          ],
+          "texture": 5
+        }
+      },
+      "type": "cube",
+      "uuid": "851e1049-7912-64f8-3559-8c0eaf56e3c2"
+    }
+  ],
+  "outliner": [
+    {
+      "name": "head",
+      "origin": [
+        0,
+        24,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "eb5ec1bc-b402-1ca1-65b4-587a4a5dd082",
+      "export": true,
+      "mirror_uv": false,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "e54735db-b3cc-c63f-b4f3-1a5cc3efb724"
+      ]
+    },
+    {
+      "name": "body",
+      "origin": [
+        0,
+        24,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "5f8ac699-7260-587a-9df0-4d08ee3ad33b",
+      "export": true,
+      "mirror_uv": false,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "c1c13e09-d1ca-a44a-33f6-1d31d0b457d8"
+      ]
+    },
+    {
+      "name": "left_arm",
+      "origin": [
+        -5,
+        22,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "4295ed1d-d336-2408-c596-054083a4a9cc",
+      "export": true,
+      "mirror_uv": true,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "cb155dcd-a754-83d3-31be-a17abab4ec0c"
+      ]
+    },
+    {
+      "name": "right_arm",
+      "origin": [
+        5,
+        22,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "f528c213-1d1c-a001-c215-471181702e41",
+      "export": true,
+      "mirror_uv": false,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "f7aafb11-aee9-dabe-b39c-ca0311d02e2a"
+      ]
+    },
+    {
+      "name": "left_leg",
+      "origin": [
+        -2,
+        12,
+        0.1
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "5fcb2f15-adf3-29f3-d2fa-a34c83655740",
+      "export": true,
+      "mirror_uv": true,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "cb71105e-013b-8b7e-3bdc-0ad4eace94d2"
+      ]
+    },
+    {
+      "name": "right_leg",
+      "origin": [
+        2,
+        12,
+        0.1
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "c4c77a79-996c-aaf7-69fb-8c288fd36258",
+      "export": true,
+      "mirror_uv": false,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "851e1049-7912-64f8-3559-8c0eaf56e3c2"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\head.png",
+      "name": "head.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "0",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "dda90b64-7177-274c-ed32-fbfc5fbc1500",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAg9JREFUWEftlr1KA0EUhScmMcRgArGIgkq0EclDCD6ApViJVhaCnYKdYCFoI4KFlaKNWPoAgg8RRAsNKpgUColokDVGzsSzXCZxB9lNsMg0OzM7M/ebc392Q9mBcF0Z7cP50jPpZFy9VKrm6z+Nnyr1kNeGEABgEMbQMqmMKpVL7h4CxKI9CuvMp43GCpAb7tMKwLDZANJKAUJg/eRI1pPhIn/nrcB0bqzJBfLEq4eC560DAbguFrTNicHGbeT4tniv5+gmKNJRBQiQiMfUW/WjSe7xwVF/LjjaXKinUwn1Un5Tx6eX+rD5uSnFuY3dEz0HADaAEIgA2CMbz7LGwPnech3Gw6qmaircSL8fIDzXtw89b7i1tqjhsT+VSrp9bMJ4ZmXfOwiHkiEdhNKv5pj1AGsYD6SypZktTd06wIU0ImVH4PXHI+5Z0WjUTU/fAFIBGqWPMZaFiUHYG2ko8Vr9VIEAtLq1WZhkdXQcx1XjpuR4+tjqAigAABnlq0uzbkbwAEb5zsGZlp8x41sBlmIYgmFmAMYyLWV2AILuKDzX/CmAjxFuL40Dgg0pxjH6BGF65h/f/QFAAfPmUgXZb1UjfAMwC34LFr8+tgYh/wdYfIIuNFYAZoE0LKti2xX4FwBm7Zc1v2MK8EdUfhMw1xGAVgoQqGMAZrQGVWqtWWBb0O73vspoEHBdgK4CXQW+AUKpTjBnUs5BAAAAAElFTkSuQmCC"
+    },
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\body.png",
+      "name": "body.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "1",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "ce4ab936-7ccb-c4f5-8837-f08639c07b02",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAjdJREFUWEftVs8rxEEUnz1is5stKTbthbSFnCQcHGQ35bTFWcpFcXDZXERKLspR8gc4KS05CS0noTZRDiwlRbvy47j6DJ9vz9e2c5hdLjuX78ybnXmf+bzPe289ycRqbmZ6QeUbG7sJbb48O9Tf5rZuFeuP6vn8Ulx/x1fWVSaT/XHc7/c56/PtpCfv5d9Gz9P9RQ5zXswfwwEc0jntAIs9X02tyj4/quG5Zb0lnfq81Sr7+qLtRgBgAI4kCDp/SF9pOxxhwCnXOIP9yFRcNTYE1c1dWn/hGIzQdnuUKsxA6nhTM4BRF2xy2MLlcMzwrKx9vZS/AzMANDK7qPDik619FWgP/WLbCAAhcNNMenEbAEALUgdyHqhvKfjCQvHHngchoEMZCoqMVMtQMBxgzBoAGSAIUk4A0hnmpJ6AuqJjdgxAA1JkE6OTivHGCyXd0AVsyBgCLAoASa+k3C04rAGQA9qwDkFrpMvJAqYPcxjqxkCKIc+x5lyHxlutDjZ27EJQVVHpADApNt/+28e7HYCe2EAOL77eO3Xu7xjsdSoZjLKwSBAoNtYMQIQsQBAcUxGOWAmxjznjD5HSFu4csmOgLxzKsenQqbsiusWHNTOlqADcDJBud6MqahbIELhFRkAlBSC7ISsddQAAtoXGlFm6F0iHOCCFaFtojAD4h4Sv/3cA8vUA8+cM/DkAVMJCcbKtdEYNmHqBba03ApAMoCewA/JgyRkwISz1vlUjKQa4MoAyA2UGPgGjZEowC6NRGAAAAABJRU5ErkJggg=="
+    },
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\texture.png",
+      "name": "left_arm.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "2",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "0ccd6a45-1b6e-4350-e027-9c1392c8632f",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOZJREFUOE9jvHpi4/+P714xgIC6vg3DzYtH4OwXj28xSMiqMYBobQt/RrAEGmA8tm32f3RBfiExBmRD8Rrw9un1/yAFyACmGSRWU9oGltp39T52F4AMADkbZivMGyA+yPmhbl7EGQBzAcwgmAHC0ppYbYapB4cBzFYQDQs4kAJ8focbAIoFWEiDBGFsWDhYeaXidwGyASBNIFeAACw6iTIApAGmGRaguckFDC3dVQwEDQDFAiikJ8+dAHY+yACQK0Biq3dtYyAYiE7aihgJCTlN4Ip/eCBSbAC29E2KGN4oIsaggTcAAGDJihEhVY+uAAAAAElFTkSuQmCC"
+    },
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\right_arm.png",
+      "name": "right_arm.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "3",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "65f09f6b-40e5-c240-fbf4-c62fd8f3b607",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAANVJREFUOE9jfPv0+v8Xj28xwICErBqYCRL7+O4Vg7q+DcPNi0cYrLxSGeGKkBiMV09s/A/igzSCFNaUtjFMnjsBrARkAAzgNADkApBGmE3otoAMBIF9V+9jdwEuL8AMDXXzwm8AyAswp/ILicG9AtIF4mtb+GO1GeZSxmPbZoPDABnAvEOSAchhAGLDYoYoF4BsgoU6jA1zEVEGwBTDohAUJjA2UQbAogpm0Opd2xhAoQ+ihaU18Qeik7YiRiAiByiu+IfHAsUGYEvfpIjh9R8xBg28AQCOtngRGsaK3wAAAABJRU5ErkJggg=="
+    },
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\left_leg.png",
+      "name": "left_leg.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "4",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "8857ab20-bbe9-7f28-6f7d-3d6f60e668a2",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAQdJREFUOE9jlLPU/i8gwM8AAh8+fGQAsfl5+MB8EPj45ROYvrT9GCNcEInBCDMApBkGkA0EiYH4OA3Q87T6D9MsLyMLthHEB7EfPnnMoPLpGwPrp1cMOx9/xe0CmM3IBsDENJ88ADNxGuCkrfj/Dh8XWBHMVpCTYa44vHoHVpthFjCCDABxYIbAApFQ4MENwBaIyIGJK/BQDIA5HeYNWEDiC32sBiAbBFPw6PhV/GHgp8QPDoML4jIMBi+fgPW9N7YER6fCzasMm+59xG+Auyw32AAQYGdlQUlsP3//wRl9cC+AXABS+JtPjIHn+zuw+BdOIXDiwRf/cANQrCSDg9d/xJg38AYAAE8chhEHArb1AAAAAElFTkSuQmCC"
+    },
+    {
+      "path": "C:\\Users\\natha\\AppData\\Roaming\\.minecraft\\resourcepacks\\water_world_RP\\assets\\minecraft\\textures\\item\\right_leg.png",
+      "name": "right_leg.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "5",
+      "particle": false,
+      "render_mode": "default",
+      "render_sides": "auto",
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "18674585-4c76-98c2-ddde-05466ec60e53",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARNJREFUOE9jtA31+H9uyyEGZQcDBmTAz8PH8PHLJ4YPHz4yyMvIMhxevYMRRQGUw6jnafUfpPjhk8co8gIC/AwwQ+4euMDw9fs37AbIWWr/h+kE2QSzFWQACEheuQimdz7+itsAmGJ0l4DEQQb85hNj2Hf1PnYDQGGA7HyQJpC/QQCf32GuZoR5QeXTN4Y7fFwMIANEHj0Hs4k2AKQQ5gqYAb+11MFij45fxep0uAtAsQBzMsz5yAYSZQDINJAhyP4nOgz8lPj///z9h4GdlQXsqvfGlgyCZ48zXBCXIS4M3GW54ekAZADMIBAbZDCu+IeHAcgAUDyzfnoF1gxzzRdOIbAYQQOwpW9SxPBGETEGDbwBAATlhxEXJNY7AAAAAElFTkSuQmCC"
+    }
+  ],
+  "animations": [
+    {
+      "uuid": "480bcb68-037b-5909-8497-f2bdf97b3ea9",
+      "name": "idle",
+      "loop": "loop",
+      "override": false,
+      "length": 2,
+      "snapping": 20,
+      "selected": true,
+      "saved": false,
+      "path": "",
+      "anim_time_update": "",
+      "blend_weight": "",
+      "start_delay": "",
+      "loop_delay": "",
+      "animators": {
+        "eb5ec1bc-b402-1ca1-65b4-587a4a5dd082": {
+          "name": "head",
+          "type": "bone",
+          "keyframes": [
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": -2.5,
+                  "y": "0",
+                  "z": "0"
+                }
+              ],
+              "uuid": "6786d834-0d46-1725-c2c8-71ceb18b50c1",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "ba37f8ea-0006-d5fa-257e-fba6da867b69",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "64c55374-83a9-0d44-186e-8895c5be54c4",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        "5f8ac699-7260-587a-9df0-4d08ee3ad33b": {
+          "name": "body",
+          "type": "bone",
+          "keyframes": [
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0",
+                  "y": "0",
+                  "z": "-0.15"
+                }
+              ],
+              "uuid": "f9960df9-1c23-1328-62e0-e4d6e0f90ef7",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": "0"
+                }
+              ],
+              "uuid": "56396999-e20d-f022-2182-593416e93e1c",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": "0"
+                }
+              ],
+              "uuid": "0836d90b-90bc-2b87-3813-9aea90e11192",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        "4295ed1d-d336-2408-c596-054083a4a9cc": {
+          "name": "left_arm",
+          "type": "bone",
+          "keyframes": [
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 2.5,
+                  "y": 0,
+                  "z": -2.5
+                }
+              ],
+              "uuid": "1cef33f0-0d58-34c4-d799-9acac9d75c95",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "8f6c7784-3f9b-d87c-258d-0180b8d6dbc0",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "c541bbca-bf15-ba8b-37aa-679859134f7c",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "-0.1\n",
+                  "z": "0"
+                }
+              ],
+              "uuid": "5776aca8-ba70-ff08-3f07-3a7f95e2399f",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "0",
+                  "z": "0"
+                }
+              ],
+              "uuid": "dcbda3af-3099-3f8b-ea41-9fa23f7d0c92",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "0",
+                  "z": "0"
+                }
+              ],
+              "uuid": "e5d4fa4c-9d70-d6d5-c9e3-d067fe54df3c",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        "f528c213-1d1c-a001-c215-471181702e41": {
+          "name": "right_arm",
+          "type": "bone",
+          "keyframes": [
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": -2.5,
+                  "y": 0,
+                  "z": 2.5
+                }
+              ],
+              "uuid": "80dbee4c-22bc-6a94-dacd-a6759ba2e93a",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "49035822-c669-ff8b-d6b4-34227ac80939",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "rotation",
+              "data_points": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              ],
+              "uuid": "86846e43-5291-181b-419b-7db6109f33a8",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "-0.1\n",
+                  "z": "0"
+                }
+              ],
+              "uuid": "660bfc39-cf89-28bd-c40f-9ae750a2150e",
+              "time": 1,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "0",
+                  "z": "0"
+                }
+              ],
+              "uuid": "29d6fccf-1f9c-b1af-31ff-d13b9e7738b7",
+              "time": 0,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "channel": "position",
+              "data_points": [
+                {
+                  "x": "0\n",
+                  "y": "0",
+                  "z": "0"
+                }
+              ],
+              "uuid": "4761eeea-79db-d1a4-96a7-a7cae526eb66",
+              "time": 2,
+              "color": -1,
+              "interpolation": "linear",
+              "bezier_linked": true,
+              "bezier_left_time": [
+                -0.1,
+                -0.1,
+                -0.1
+              ],
+              "bezier_left_value": [
+                0,
+                0,
+                0
+              ],
+              "bezier_right_time": [
+                0.1,
+                0.1,
+                0.1
+              ],
+              "bezier_right_value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

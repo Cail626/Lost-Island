@@ -1,0 +1,72 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/purple_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/sully/h_head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/sully/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/sully/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/sully/left_leg_down"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/sully/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/sully/right_leg_down"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/sully/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/sully/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:item/sully/torso"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"90c64420-4424-86ba-53f8-1be4d31a5842": {
+				"name": "sully_boss",
+				"usedIDs": [
+					[1, 9]
+				]
+			}
+		}
+	}
+}

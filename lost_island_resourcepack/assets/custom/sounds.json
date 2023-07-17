@@ -1,0 +1,179 @@
+{
+  "ambient": {
+    "sounds": [
+      {
+        "name": "custom:default/a_familiar_room",
+        "stream": true
+      },
+      {
+        "name": "custom:default/calm1",
+        "stream": true
+      },
+      {
+        "name": "custom:default/calm2",
+        "stream": true
+      },
+      {
+        "name": "custom:default/calm3",
+        "stream": true
+      },
+      {
+        "name": "custom:default/hal1",
+        "stream": true
+      },
+      {
+        "name": "custom:default/hal2",
+        "stream": true
+      },
+      {
+        "name": "custom:default/hal3",
+        "stream": true
+      },
+      {
+        "name": "custom:default/hal4",
+        "stream": true
+      },
+      {
+        "name": "custom:default/an_ordinary_day",
+        "stream": true
+      },
+      {
+        "name": "custom:default/ancestry",
+        "stream": true
+      },
+      {
+        "name": "custom:default/bromeliad",
+        "stream": true
+      },
+      {
+        "name": "custom:default/comforting_memories",
+        "stream": true
+      },
+      {
+        "name": "custom:default/crescent_dunes",
+        "stream": true
+      },
+      {
+        "name": "custom:default/echo_in_the_wind",
+        "stream": true
+      },
+      {
+        "name": "custom:default/floating_dream",
+        "stream": true
+      },
+      {
+        "name": "custom:default/infinite_amethyst",
+        "stream": true
+      },
+      {
+        "name": "custom:default/left_to_bloom",
+        "stream": true
+      },
+      {
+        "name": "custom:default/nuance1",
+        "stream": true
+      },
+      {
+        "name": "custom:default/nuance2",
+        "stream": true
+      },
+      {
+        "name": "custom:default/one_more_day",
+        "stream": true
+      },
+      {
+        "name": "custom:default/piano1",
+        "stream": true
+      },
+      {
+        "name": "custom:default/piano2",
+        "stream": true
+      },
+      {
+        "name": "custom:default/piano3",
+        "stream": true
+      },
+      {
+        "name": "custom:default/stand_tall",
+        "stream": true
+      },
+      {
+        "name": "custom:default/wending",
+        "stream": true
+      }
+    ]
+  },
+  "audio1": {
+    "sounds": [
+      {
+        "name": "custom:sandra_crying",
+        "stream": true
+      }
+    ]
+  },
+  "mellohi_stereo": {
+    "sounds": [
+      {
+        "name": "custom:mellohi_stereo",
+        "stream": true
+      }
+    ]
+  },
+  "witch_arc_dream_world": {
+    "sounds": [
+      {
+        "name": "custom:ward_stereo",
+        "stream": true
+      },
+      {
+        "name": "custom:far_stereo",
+        "stream": true
+      }
+    ]
+  },
+  "montogoronto": {
+    "sounds": [
+      {
+        "name": "custom:dark_fight_montogoronto",
+        "stream": true
+      }
+    ]
+  },
+  "sully_snoring": {
+    "sounds": [
+      {
+        "name": "custom:sully_snoring"
+      }
+    ]
+  },
+  "sully_slumber": {
+    "sounds": [
+      {
+        "name": "custom:sully/sully_slumber"
+      }
+    ]
+  },
+  "sully_sleepy": {
+    "sounds": [
+      {
+        "name": "custom:sully/sully_sleepy"
+      }
+    ]
+  },
+  "jean_hello": {
+    "sounds": [
+      {
+        "name": "custom:jean/hello/audio1"
+      },
+      {
+        "name": "custom:jean/hello/audio2"
+      },
+      {
+        "name": "custom:jean/hello/audio3"
+      },
+      {
+        "name": "custom:jean/hello/audio4"
+      }
+    ]
+  }
+}

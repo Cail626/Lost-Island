@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:sully/zzzzzzzz/animations/wake/tree/leaf_70_as_bone

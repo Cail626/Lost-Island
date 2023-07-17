@@ -1,0 +1,1 @@
+function main_fct:game_manager/editing

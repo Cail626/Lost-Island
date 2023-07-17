@@ -1,0 +1,1 @@
+playsound custom:ambient record @a ~ ~ ~

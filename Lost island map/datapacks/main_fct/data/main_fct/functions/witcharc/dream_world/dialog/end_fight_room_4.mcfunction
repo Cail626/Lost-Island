@@ -1,0 +1,2 @@
+tellraw @a [{"text": "(Sandra) Yeah!!! It was amazing! The look on your faces during the fight was priceless!!", "color": "dark_purple"}]
+tellraw @a [{"text": "(Sandra) Now it's time to claim your reward. Take this beautiful book.", "color": "dark_purple"}]

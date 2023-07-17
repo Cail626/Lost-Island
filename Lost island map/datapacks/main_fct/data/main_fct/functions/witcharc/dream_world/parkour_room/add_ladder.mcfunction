@@ -1,0 +1,11 @@
+setblock 931 104 60 ladder[facing=south]
+setblock 931 105 60 ladder[facing=south]
+setblock 931 106 60 ladder[facing=south]
+setblock 931 107 60 ladder[facing=south]
+setblock 931 108 60 ladder[facing=south]
+
+setblock 932 109 62 ladder[facing=north]
+setblock 932 110 62 ladder[facing=north]
+setblock 932 111 62 ladder[facing=north]
+setblock 932 112 62 ladder[facing=north]
+setblock 932 113 62 ladder[facing=north]

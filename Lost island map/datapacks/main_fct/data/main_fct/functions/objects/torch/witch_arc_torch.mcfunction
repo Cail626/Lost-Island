@@ -1,0 +1,2 @@
+give @p torch{CanPlaceOn:["minecraft:warped_stem","minecraft:warped_nylium","minecraft:warped_hyphae","minecraft:warped_planks"]} 60
+give @p soul_torch{CanPlaceOn:["minecraft:warped_stem","minecraft:warped_nylium","minecraft:warped_hyphae","minecraft:warped_planks"]} 60

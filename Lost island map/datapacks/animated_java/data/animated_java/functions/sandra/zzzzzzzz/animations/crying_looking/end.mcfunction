@@ -1,0 +1,3 @@
+execute if score @s aj.sandra.animation.crying_looking.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:sandra/zzzzzzzz/animations/crying_looking/end_loop
+execute if score @s aj.sandra.animation.crying_looking.loop_mode = $aj.loop_mode.once aj.i run function animated_java:sandra/animations/crying_looking/stop
+execute if score @s aj.sandra.animation.crying_looking.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:sandra/animations/crying_looking/pause

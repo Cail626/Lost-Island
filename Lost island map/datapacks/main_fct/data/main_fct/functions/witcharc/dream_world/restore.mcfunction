@@ -1,0 +1,5 @@
+function main_fct:witcharc/dream_world/fight_room/restorate
+function main_fct:witcharc/dream_world/potion_room/player_died
+function main_fct:witcharc/dream_world/invisible_room/restore
+function main_fct:witcharc/dream_world/parkour_room/restore
+function main_fct:witcharc/dream_world/sully_fight/player_died

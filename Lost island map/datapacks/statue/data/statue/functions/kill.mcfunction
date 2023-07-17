@@ -1,0 +1,1 @@
+execute as @e[tag=statue,tag=main,sort=nearest,limit=1] at @s run kill @e[tag=statue,distance=..2,limit=32,sort=nearest]

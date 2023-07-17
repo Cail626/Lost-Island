@@ -1,0 +1,1 @@
+give @p chainmail_chestplate{display:{Name:'{"text":"Chestplate of Ludovic"}',Lore:['{"text":"On it is engraved: Ludovic, Knight of the Moon"}']},Damage:150,Enchantments:[{id:"minecraft:blast_protection",lvl:1s},{id:"minecraft:projectile_protection",lvl:1s}]} 1

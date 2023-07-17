@@ -1,0 +1,1 @@
+function animated_java:sully/zzzzzzzz/animations/roar/tick_animation

@@ -1,0 +1,2 @@
+tellraw @a [{"text": "(Sandra) How do you like it? Isn't it incredible?", "color": "dark_purple"}]
+tellraw @a [{"text": "(Sandra) I'm the one who designed this place! Honestly, I'm not a big fan of Nathalie's house. It's too cramped and gloomy for my taste. Shh... Please, don't let Nathalie know about this.", "color": "dark_purple"}]

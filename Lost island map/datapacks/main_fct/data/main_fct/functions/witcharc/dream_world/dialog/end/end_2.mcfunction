@@ -1,0 +1,1 @@
+tellraw @a {"text": "(You) Please wait, don't do it there!", "color": "gold"}

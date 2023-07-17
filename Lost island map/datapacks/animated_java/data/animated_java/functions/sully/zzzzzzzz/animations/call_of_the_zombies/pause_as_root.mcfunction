@@ -1,0 +1,1 @@
+tag @s remove aj.sully.animation.call_of_the_zombies

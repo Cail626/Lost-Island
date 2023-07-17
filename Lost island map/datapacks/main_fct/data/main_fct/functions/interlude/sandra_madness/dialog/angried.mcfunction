@@ -1,0 +1,1 @@
+tellraw @a {"text": "(Sandra) ... You took away the ones I loved... I never knew I could feel such intense emotions", "color": "dark_purple"}

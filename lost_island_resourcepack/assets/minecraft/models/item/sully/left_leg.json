@@ -1,0 +1,28 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:item/sully"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [6.75, 6.875, 7.5, 8], "texture": "#0"},
+				"east": {"uv": [6.125, 6.875, 6.75, 8], "texture": "#0"},
+				"south": {"uv": [8.125, 6.875, 8.875, 8], "texture": "#0"},
+				"west": {"uv": [7.5, 6.875, 8.125, 8], "texture": "#0"},
+				"up": {"uv": [7.5, 6.875, 6.75, 6.25], "texture": "#0"},
+				"down": {"uv": [8.25, 6.25, 7.5, 6.875], "texture": "#0"}
+			},
+			"to": [9.56, 5, 9.2],
+			"from": [7.16, 1.4, 7.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.36, 5, 8]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

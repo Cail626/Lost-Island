@@ -1,0 +1,1 @@
+tellraw @a [{"text": "(Sandra) HAHAHA! What were you expecting? Did you think you were on a joyous trip? Don't forget that this is your punishment for freeing Christopher. I hope I've crushed your hopes of witnessing a beautiful fireworks display.", "color": "gold"}]

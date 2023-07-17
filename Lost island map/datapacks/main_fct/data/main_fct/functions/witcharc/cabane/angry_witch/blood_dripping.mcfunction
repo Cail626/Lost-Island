@@ -1,0 +1,12 @@
+particle minecraft:dripping_lava 144 77 281 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 145 77 281 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 145 77 279 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 144 77 280 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 144 77 282 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 143 77 281 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 143 77 282 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 146 77 281 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 143 77 280 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 146 77 280 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 145 77 280 0.125 0.125 0.125 0 1
+particle minecraft:dripping_lava 146 77 279 0.125 0.125 0.125 0 1

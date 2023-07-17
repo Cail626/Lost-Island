@@ -1,0 +1,1 @@
+execute as @e[tag=aj.sully.root] run function animated_java:sully/remove/this

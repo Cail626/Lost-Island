@@ -1,0 +1,1 @@
+give @a wooden_hoe{CanDestroy:["minecraft:warped_fungus"],display:{Name:'{"text":"Fungus cutter"}',Lore:['{"text":"\\"I love cutting fungus\\" Sully"}']}} 1

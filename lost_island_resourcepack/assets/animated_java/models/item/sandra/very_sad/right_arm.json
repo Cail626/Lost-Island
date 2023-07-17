@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/sandra/right_arm",
+	"textures": {
+		"0": "minecraft:item/sandra_very_sad",
+		"1": "minecraft:item/sandra_very_sad",
+		"3": "minecraft:item/sandra_no_magic"
+	}
+}

@@ -1,0 +1,1 @@
+give @p stone_sword{display:{Name:'{"text":"sword of Ludovic"}'},Damage:100,Enchantments:[{id:"minecraft:sharpness",lvl:2s},{id:"minecraft:knockback",lvl:1s}]} 1

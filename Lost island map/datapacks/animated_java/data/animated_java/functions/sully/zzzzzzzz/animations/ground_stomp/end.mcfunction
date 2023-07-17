@@ -1,0 +1,3 @@
+execute if score @s aj.sully.animation.ground_stomp.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:sully/zzzzzzzz/animations/ground_stomp/end_loop
+execute if score @s aj.sully.animation.ground_stomp.loop_mode = $aj.loop_mode.once aj.i run function animated_java:sully/animations/ground_stomp/stop
+execute if score @s aj.sully.animation.ground_stomp.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:sully/animations/ground_stomp/pause

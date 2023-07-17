@@ -1,0 +1,1 @@
+function main_fct:witcharc/cabane/christophe/dead

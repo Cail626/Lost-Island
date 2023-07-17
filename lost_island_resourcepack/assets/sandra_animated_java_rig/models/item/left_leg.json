@@ -1,0 +1,84 @@
+{
+	"textures": {
+		"0": "sandra_animated_java_rig:item/project"
+	},
+	"elements": [
+		{
+			"from": [
+				5.9,
+				-4,
+				6
+			],
+			"to": [
+				9.9,
+				8,
+				10
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						2,
+						5,
+						1,
+						8
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						3,
+						5,
+						2,
+						8
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						4,
+						5,
+						3,
+						8
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						1,
+						5,
+						0,
+						8
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						1,
+						5,
+						2,
+						4
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						2,
+						4,
+						3,
+						5
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				0,
+				0
+			]
+		}
+	}
+}

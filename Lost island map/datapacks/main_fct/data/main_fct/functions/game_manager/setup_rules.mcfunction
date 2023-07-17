@@ -1,0 +1,9 @@
+gamerule commandBlockOutput false
+gamerule doDaylightCycle true
+gamerule doFireTick false
+gamerule doTraderSpawning false
+gamerule doWeatherCycle false
+gamerule keepInventory true
+gamerule mobGriefing false
+gamerule logAdminCommands false
+gamerule doVinesSpread false

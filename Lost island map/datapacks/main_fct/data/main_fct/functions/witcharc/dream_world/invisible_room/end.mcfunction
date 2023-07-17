@@ -1,0 +1,1 @@
+scoreboard players set witch_arc inv_room_end 1

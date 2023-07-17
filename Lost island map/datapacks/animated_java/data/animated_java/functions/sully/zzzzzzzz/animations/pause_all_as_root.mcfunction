@@ -1,0 +1,9 @@
+function animated_java:sully/zzzzzzzz/animations/idle/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/death/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/attack/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/ground_stomp/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/roar/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/sleep/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/wake/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/call_of_the_zombies/pause_as_root
+function animated_java:sully/zzzzzzzz/animations/walk/pause_as_root

@@ -1,0 +1,1 @@
+execute if score witch_arc pk_room_succeed matches 0 run function main_fct:witcharc/dream_world/parkour_room/start

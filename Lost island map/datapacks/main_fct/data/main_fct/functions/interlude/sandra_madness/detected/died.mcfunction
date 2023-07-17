@@ -1,0 +1,5 @@
+scoreboard players set interlude sandra_madness_detected 0
+scoreboard players set interlude sandra_madness_playsound 0
+scoreboard players set interlude sandra_madness_detected_tick 0
+scoreboard players set interlude sandra_madness_tick 0
+function main_fct:interlude/sandra_madness/detected/restore

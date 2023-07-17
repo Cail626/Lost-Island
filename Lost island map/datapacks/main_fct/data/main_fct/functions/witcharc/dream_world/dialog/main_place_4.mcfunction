@@ -1,0 +1,1 @@
+tellraw @a [{"text": "(Sandra) This power is really convenient. I can even hear everything you say, hihi.", "color": "dark_purple"}]

@@ -1,0 +1,1 @@
+give @a firework_rocket{CanPlaceOn:["minecraft:dark_oak_planks","minecraft:dark_oak_fence"],display:{Lore:['{"text":"It may be your last time seeing one. So enjoy!","color":"dark_purple"}']},fake:1,Fireworks:{Flight:1b}} 64

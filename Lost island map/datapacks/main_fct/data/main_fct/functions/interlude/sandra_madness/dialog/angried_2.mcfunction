@@ -1,0 +1,1 @@
+tellraw @a {"text": "But you also gave me something... a purpose in my life... It is...", "color": "dark_purple"}

@@ -1,0 +1,5 @@
+tellraw @a [{"text":"(???) Hey! You there!","color": "green"}]
+tellraw @a [{"text":"(???)","color": "gold"}]
+tellraw @a [{"text":"(???) Look at me when I speak. I am the little head on the ground.","color": "green"}]
+tellraw @a [{"text":"(Mysterious Head) Yeah, I know. It's not every day that you see a head lying on the ground. But listen, I know why you're here.","color":"green"}]
+tellraw @a [{"text": "Click here to continue the dialogue","bold": true,"clickEvent": {"action": "run_command","value": "/function main_fct:witcharc/before_entering/jean/dialog/encounter2"}}]

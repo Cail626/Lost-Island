@@ -1,0 +1,1 @@
+tellraw @a [{"text": "(Sandra) I must admit, I'm impressed! I didn't think you would clear this room. It was by far the hardest. The last person suffered a horrible death, slowly eaten by spiders. Sully was lost inside this tree for 5 days. I had to lend him a hand to get out.", "color": "dark_purple"}]

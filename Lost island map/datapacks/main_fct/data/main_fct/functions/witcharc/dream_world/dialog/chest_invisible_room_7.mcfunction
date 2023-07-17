@@ -1,0 +1,1 @@
+tellraw @a [{"text": "Yeah, thanks for bringing me here. You've been such a great help! Damn it! How am I supposed to survive this? I'm just a plaything to them. I don't see a way out of this alive!!", "color": "gold"}]

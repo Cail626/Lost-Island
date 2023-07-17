@@ -1,0 +1,1 @@
+function animated_java:sandra/zzzzzzzz/animations/angry_ice_idle/tick_animation

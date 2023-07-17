@@ -1,0 +1,1 @@
+execute unless score interlude sandra_madness_state matches 0 run function main_fct:interlude/sandra_madness/died

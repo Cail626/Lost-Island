@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0 run function animated_java:sully/zzzzzzzz/animations/call_of_the_zombies/tree/leaf_0

@@ -1,0 +1,1 @@
+function animated_java:sully/zzzzzzzz/animations/call_of_the_zombies/tick_animation

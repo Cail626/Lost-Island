@@ -1,0 +1,2 @@
+execute if block 144 67 275 warped_door[open=true] run function main_fct:interlude/witch_house_close_doors
+execute if block 145 67 275 warped_door[open=true] run function main_fct:interlude/witch_house_close_doors

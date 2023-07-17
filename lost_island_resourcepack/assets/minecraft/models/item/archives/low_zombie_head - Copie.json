@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/template_skull",
+	"elements": [
+		{
+			"name": "low zombie head",
+			"from": [5, 0, 5],
+			"to": [13, 8, 13],
+			"color": 4,
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#missing"},
+				"south": {"uv": [24, 8, 32, 16], "texture": "#missing"},
+				"west": {"uv": [16, 8, 24, 16], "texture": "#missing"},
+				"up": {"uv": [16, 8, 8, 0], "texture": "#missing"},
+				"down": {"uv": [24, 0, 16, 8], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"translation": [-5, 9.5, -16.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [-15.25, 18.5, 0]
+		},
+		"ground": {
+			"translation": [0, -13.75, 0]
+		},
+		"head": {
+			"translation": [-1.25, -30.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 12, 0]
+		}
+	}
+}

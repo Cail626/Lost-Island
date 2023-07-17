@@ -1,0 +1,1 @@
+tellraw @a {"text": "Main fct loaded", "color": "#0000FF"}

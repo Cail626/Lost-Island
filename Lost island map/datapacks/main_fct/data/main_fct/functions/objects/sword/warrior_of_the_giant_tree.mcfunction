@@ -1,0 +1,1 @@
+give @p iron_sword{display:{Name:'{"text":"Courageous Fighter Sword"}',Lore:['{"text":"A battle-worn sword, stained with the blood of fallen comrades."}']},Damage:200,Enchantments:[{id:"minecraft:smite",lvl:2s}]} 1

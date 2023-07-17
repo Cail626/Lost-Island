@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.sully.root] run function animated_java:sully/zzzzzzzz/tick_as_root

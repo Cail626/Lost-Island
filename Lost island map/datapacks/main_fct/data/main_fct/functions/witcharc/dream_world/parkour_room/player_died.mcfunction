@@ -1,0 +1,3 @@
+scoreboard players set witch_arc pk_room_start_countdown 0
+scoreboard players set witch_arc pk_room_countdown 0
+function main_fct:witcharc/dream_world/parkour_room/return_normal
