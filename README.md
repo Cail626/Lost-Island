@@ -1,4 +1,4 @@
-# Minecraft adventure map - Lost Island
+# Minecraft adventure map - Lost Island (for minecraft 1.20)
 
 Thank you for wanting to play!
 
