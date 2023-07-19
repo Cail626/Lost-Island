@@ -1,4 +1,4 @@
-# Minecraft adventure map - Lost Island (for minecraft 1.20, JAVA VERSION ONLY)
+# Minecraft adventure map - Lost Island (alpha version, for minecraft 1.20, minecraft JAVA ONLY)
 
 Thank you for wanting to play!
 
