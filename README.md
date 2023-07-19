@@ -1,1 +1,1 @@
-# Minecraft adevanture map - Lost Island
+# Minecraft adventure map - Lost Island
